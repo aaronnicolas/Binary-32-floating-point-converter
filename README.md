@@ -14,7 +14,7 @@ This repository contains the source code, screenshots, and a short video demonst
 1. **Screenshots:** 
     - Screenshot of the program output showcasing all possible test cases covering the specifications.
 
-2. **Short Video:** 
+2. **Video Demonstration:** 
     - A 5-minute video demonstrating the program, including compilation, and showcasing various test cases.
 
 3. **Source Code:**
@@ -26,13 +26,13 @@ This repository contains the source code, screenshots, and a short video demonst
 
 Navigate to the [Screenshots](https://github.com/aaronnicolas/Binary-32-floating-point-converter/tree/main/screenshots) directory to view the screenshot(s) of the program output.
 
-### Short Video
+### Video Demonstration
 
-Find the short video demonstrating the program in action in the [Videos](./videos/) directory. This video covers compilation, test cases, and various scenarios.
+Find the short video demonstrating the program in action in the [Video Demo](https://github.com/aaronnicolas/Binary-32-floating-point-converter/tree/main/video%20demo) directory. This video covers compilation, test cases, and various scenarios.
 
 ### Source Code
 
-The source code for the project is available in the [Source Code](./source_code/) directory. You can either compile it using the provided instructions or use the executable (if provided).
+The source code for the project is available in the [Source Code](https://github.com/aaronnicolas/Binary-32-floating-point-converter/tree/main/source%20code) directory. You can either compile it using the provided instructions or use the executable (if provided).
 
 ## Running the Program
 
