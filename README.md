@@ -35,7 +35,6 @@ Find the short video demonstrating the program in action in the [Video Demo](htt
 The source code for the project is available in the [Source Code](https://github.com/aaronnicolas/Binary-32-floating-point-converter/tree/main/source%20code) directory. You can either compile it using the provided instructions or use the executable (if provided).
 
 <br />
-<br />
 
 # Running the Program
 This guide provides instructions on how to run a Python file either using the command line (CMD).
