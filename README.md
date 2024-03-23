@@ -55,7 +55,7 @@ This guide provides instructions on how to run a Python file either using the co
 3. **Run Python File:**
     - Once in the directory, run the Python file by typing:
         ```
-        python main.py
+        python Binary-32_Floating_Point_Converter.py
         ```
 
 4. **View GUI Application:**
