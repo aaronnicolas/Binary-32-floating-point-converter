@@ -38,20 +38,11 @@ The source code for the project is available in the [Source Code](./source_code/
 
 [Provide instructions on how to compile/run the program if not already included in the source code directory.]
 
-## Contributing
-
-If you wish to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Any contributions are highly appreciated.
-
-## Issues
-
-If you encounter any issues with the program or have suggestions for improvement, please open an issue in the repository's issue tracker.
-
-## License
-
-[Specify the license under which the project is released, e.g., MIT License, Apache License 2.0, etc.]
-
-## Contact
-
-If you have any questions or need further assistance, feel free to contact [maintainer's name] at [maintainer's email].
-
-Enjoy using [project name]!
+## Group Members
+Group: 6 <br />
+Section: S12 <br />
+- Christian Dela Peña
+- Miguel Francis Estañol
+- Michael Joseph Go
+- Aaron Rae Nicolas
+- Hans David Tuballa
