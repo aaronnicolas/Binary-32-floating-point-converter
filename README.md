@@ -64,7 +64,7 @@ Download the source code folder in this repository.
     - The GUI application should launch, displaying the graphical interface as designed.
     - Upon displaying the menu, you are given the choice of two buttons: "Binary Floating Point to IEEE/1985" or "Decimal Floating Point to IEEE/1985".
     - You will be redirected to its respective converter interface, where you will be prompted to input the necessary values.
-    - The user will then press the "Convert" button to see the results. Optionally, you may choose to click the "Output to Text File" button, which will record your input and the results.
+    - The user will then press the "Convert" button to see the results. Optionally, you may choose to click the "Output to Text File" button, which will record your input and the results. There will be a pop up window indicating the name of the text file. This text file can be accessed within the same folder/directory of the code.
     - Additionally, there is a "Back to Menu" button that returns you to the main menu, where you can choose another converter.
 
 <br />
