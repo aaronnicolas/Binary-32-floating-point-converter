@@ -60,6 +60,9 @@ This guide provides instructions on how to run a Python file either using the co
 
 4. **View GUI Application:**
     - The GUI application should launch, displaying the graphical interface as designed.
+    - It should display the Menu
+
+<br />
 
 ## Group Members
 Group: 6 <br />
