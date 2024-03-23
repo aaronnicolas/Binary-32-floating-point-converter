@@ -7,7 +7,7 @@ This repository contains the source code, screenshots, and a short video demonst
 
 ## Overview
 
-[Project name] is a [brief description of what the program does]. This README will guide you through the repository contents and how to use them.
+This simulation project is a Binary-32 Floating Point Converter. This README will guide you through the repository contents and how to use them.
 
 ## Contents
 
@@ -34,9 +34,30 @@ Find the short video demonstrating the program in action in the [Video Demo](htt
 
 The source code for the project is available in the [Source Code](https://github.com/aaronnicolas/Binary-32-floating-point-converter/tree/main/source%20code) directory. You can either compile it using the provided instructions or use the executable (if provided).
 
-## Running the Program
+# Running the Program
+This guide provides instructions on how to run a Python file either using the command line (CMD).
 
-[Provide instructions on how to compile/run the program if not already included in the source code directory.]
+## Running Python Files on CMD
+
+1. **Open Command Prompt:**
+    - Press `Win + R` to open the Run dialog.
+    - Type `cmd` and press Enter to open Command Prompt.
+
+2. **Navigate to Python File Directory:**
+    - Use the `cd` command to navigate to the directory containing the project's python file.
+    - For example:
+        ```
+        cd path\to\your\python\file
+        ```
+
+3. **Run Python File:**
+    - Once in the directory, run the Python file by typing:
+        ```
+        python main.py
+        ```
+
+4. **View GUI Application:**
+    - The GUI application should launch, displaying the graphical interface as designed.
 
 ## Group Members
 Group: 6 <br />
