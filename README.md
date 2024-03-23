@@ -15,7 +15,7 @@ This simulation project is a Binary-32 Floating Point Converter. This README wil
     - Screenshot of the program output showcasing all possible test cases covering the specifications.
 
 2. **Video Demonstration:** 
-    - A 5-minute video demonstrating the program, including compilation, and showcasing various test cases.
+    - A video demonstrating the program, including compilation, and showcasing various test cases.
 
 3. **Source Code:**
     - The source code for the project, including any necessary files for compilation or execution.
@@ -61,7 +61,7 @@ Download the source code folder in this repository.
         ```
 
 4. **View GUI Application:**
-    - The GUI application will launch, displaying the graphical interface of the Menu. Upon displaying the menu, users are presented with two buttons: "Binary Floating Point to IEEE/1985" or "Decimal Floating Point to IEEE/1985".
+    - The GUI application will launch, displaying the graphical interface of the Menu. Upon displaying the menu, users are presented with two buttons: "Binary Floating Point to IEEE-754/1985" or "Decimal Floating Point to IEEE-754/1985".
     - Upon selecting a conversion option, users will be redirected to the respective converter interface, where they will be prompted to input the necessary values.
     - After inputting the required values, users can press the "Convert" button to see the results. Optionally, they may choose to click the "Output to Text File" button, which will generate a text file containing their input and the results. A pop-up window will display the name of the text file, which can be found within the same folder/directory as the code.
     - Furthermore, a "Back to Menu" button is available, allowing users to return to the main menu where they can choose another converter.
