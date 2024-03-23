@@ -60,7 +60,10 @@ This guide provides instructions on how to run a Python file either using the co
 
 4. **View GUI Application:**
     - The GUI application should launch, displaying the graphical interface as designed.
-    - It should display the Menu
+    - Upon displaying the menu, you are given the choice of two buttons: "Binary Floating Point to IEEE/1985" or "Decimal Floating Point to IEEE/1985".
+    - You will be redirected to its respective converter interface, where you will be prompted to input the necessary values.
+    - The user will then press the "Convert" button to see the results. Optionally, you may choose to click the "Output to Text File" button, which will record your input and the results.
+    - Additionally, there is a "Back to Menu" button that returns you to the main menu, where you can choose another converter.
 
 <br />
 
