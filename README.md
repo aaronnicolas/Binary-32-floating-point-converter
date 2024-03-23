@@ -41,6 +41,8 @@ This guide provides instructions on how to run a Python file either using the co
 
 ## Running Python Files on CMD
 
+Download the source code folder in this repository.
+
 1. **Open Command Prompt:**
     - Press `Win + R` to open the Run dialog.
     - Type `cmd` and press Enter to open Command Prompt.
