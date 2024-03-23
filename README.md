@@ -24,7 +24,7 @@ This repository contains the source code, screenshots, and a short video demonst
 
 ### Screenshots
 
-Navigate to the [Screenshots](./screenshots/) directory to view the screenshot(s) of the program output.
+Navigate to the [Screenshots](./[screenshots/](https://github.com/aaronnicolas/Binary-32-floating-point-converter/tree/main/screenshots)) directory to view the screenshot(s) of the program output.
 
 ### Short Video
 
