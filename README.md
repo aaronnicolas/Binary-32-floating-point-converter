@@ -3,7 +3,7 @@ CSARCH2 Simulation Project - 2nd Term SY 2023-2024
 
 # README.md
 
-This repository contains the source code, screenshots, and a short video demonstrating the program for [project name].
+This repository contains the source code, screenshots, and a short video demonstrating the program for a Binary-32 Floating Point Converter
 
 ## Overview
 
